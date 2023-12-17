@@ -1,1 +1,2 @@
 # role_recommandation_system
+The application of LightGBM as a machine learning model to predict job titles showcases the potential of such tools in addressing real-world challenges. The fine-tuning process, incorporating different hyperparameter optimization methods, underscores the significance of model refinement for enhanced performance. Our evaluation metrics, encompassing accuracy, recall, and F1 score, provide a robust measure of the model's efficacy.
